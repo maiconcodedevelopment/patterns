@@ -1,0 +1,5 @@
+/opt/lampp/htdocs/c/patterns/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/opt/lampp/htdocs/c/patterns/bin/Debug/patterns.pdb
+/opt/lampp/htdocs/c/patterns/bin/Debug/patterns.exe
+/opt/lampp/htdocs/c/patterns/obj/x86/Debug/patterns.exe
+/opt/lampp/htdocs/c/patterns/obj/x86/Debug/patterns.pdb
